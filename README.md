@@ -8,7 +8,7 @@ It's a minimalist Horoscope developed using Kotlin and XML, implementing fundame
     <img src="https://github.com/D-landJS/Horoscope-App/assets/55060895/fde9fbec-60e6-4f59-9c8b-cf55b84390bf" alt="SUPERHERO RESULT" width="45%">
 </div>
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10em;">
     <img src="https://github.com/D-landJS/Horoscope-App/assets/55060895/43e9f705-f544-47d6-9653-36ac6390ed95" alt="IMC SEARCH" width="45%">
     <img src="https://github.com/D-landJS/Horoscope-App/assets/55060895/44dc8155-c5e7-49b2-b9ac-2fa6cd49ebfc" alt="SUPERHERO RESULT" width="45%">
 </div>
